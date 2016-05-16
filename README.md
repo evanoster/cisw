@@ -5,6 +5,7 @@ Please start with the [Welcome Letter](https://github.com/akzaidi/cisw/blob/mast
 
 Some additional content:
 * [Sign-in Sheet](https://onedrive.live.com/redir?resid=2BA65EAAEB7267FB!285022&authkey=!AO4FUGLJ9rYTZCc&ithint=file%2cxlsx)
+* [Azure Pass Redemption](http://www.microsoftazurepass.com/)
 * [Data Catalog Page](http://azuredatacatalog.com)
   - use the username from the sign-in sheet
   - password will be provided in class
