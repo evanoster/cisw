@@ -11,5 +11,5 @@ Some additional content:
   - password will be provided in class
 * [Lab Materials](http://cisw-hdi.azurewebsites.net/Resources/cisw-hdi-labs.zip)
 * [Old Class Page](http://cisw-hdi.azurewebsites.net/)
-
+* [RStudio Server](http://13.92.177.90:888/)
 
